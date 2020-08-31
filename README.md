@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá, bem vindo(a) ao meu perfil :D 👋
 
-<!--
-**Joe02/Joe02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me chamo Joel, tenho 20 anos e atuo como desenvolvedor Mobile para aplicações nativas e híbridas!
 
-Here are some ideas to get you started:
+- ⚡ Atualmente estou focado no Framework Flutter (1 ano de experiência e almejando mais).
+- ⚡ Possuo experiência com manutenção de aplicativos em produção.
+- ⚡ Já trabalhei no desenvolvimento de aplicações para a área de saúde, ensino e atualmente uma pincelada de machine learning.
+- ⚡ Meta para o futuro: a mesma meta atual, sempre aprender com os erros e não deixar os acertos subirem a cabeça.
+- ⚡ Dica importante para a vida: uma playlist própria sempre ajuda com os buxos do dia a dia!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contatos :
+
+Telefone: +55 (85) 98632-9836
+E-mail: Joe02araujo@gmail.com
+E-mail institucional: Joel.araujo.silva05@aluno.ifce.edu.br
+Linkedin: https://www.linkedin.com/in/joel-araújo/
+
+<br />
+
+### O que você vai encontrar por aqui?
+
+Protótipos, ideias e misterios relacionados ao mundo Mobile. Diretamente da caixola para a lista de repositórios, dá uma olhada!
