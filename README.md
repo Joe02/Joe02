@@ -11,10 +11,10 @@
 
 ### Contatos :
 
-Telefone: +55 (85) 98632-9836
-E-mail: Joe02araujo@gmail.com
-E-mail institucional: Joel.araujo.silva05@aluno.ifce.edu.br
-Linkedin: https://www.linkedin.com/in/joel-araújo/
+Telefone: +55 (85) 98632-9836<br />
+E-mail: Joe02araujo@gmail.com<br />
+E-mail institucional: Joel.araujo.silva05@aluno.ifce.edu.br<br />
+Linkedin: https://www.linkedin.com/in/joel-araújo/<br />
 
 <br />
 
