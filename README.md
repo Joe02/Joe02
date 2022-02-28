@@ -1,6 +1,6 @@
 ### Olá, bem vindo(a) ao meu perfil :D 👋
 
-## Me chamo Joel, tenho 22 anos e atuo como desenvolvedor Mobile para aplicações nativas e híbridas!
+## Me chamo Joel, tenho 22 anos e atuo como desenvolvedor Mobile para aplicações nativas e híbridas! (3 anos descobrindo coisas novas no mundo Mobile!)
 
 - ⚡ Atualmente estou focado no Framework Flutter (1,5 ano de experiência e almejando mais) e também no desevolvimento nativo para Android com Kotlin!.
 - ⚡ Possuo experiência com manutenção de aplicativos em produção.
