@@ -1,12 +1,12 @@
 ### Olá, bem vindo(a) ao meu perfil :D 👋
 
-## Me chamo Joel, tenho 22 anos e atuo como desenvolvedor Mobile para aplicações nativas e híbridas! (3 anos descobrindo coisas novas no mundo Mobile!)
+## Me chamo Joel, tenho 22 anos e atuo como desenvolvedor Mobile para aplicações nativas e híbridas! (3,5 anos descobrindo coisas novas no mundo Mobile!)
 
-- ⚡ Atualmente estou focado no Framework Flutter (1,5 ano de experiência e almejando mais) e também no desevolvimento nativo para Android com Kotlin!.
+- ⚡ Framework Flutter (1,5 ano de experiência e almejando mais) e Android Kotlin (2 anos de experiência)
 - ⚡ Possuo experiência com manutenção de aplicativos em produção.
 - ⚡ Já trabalhei no desenvolvimento de aplicações para a área de saúde, gestão de patrimônios, ensino e uma pincelada de machine learning.
 - ⚡ Meta para o futuro: a mesma meta atual, sempre aprender com os erros e não deixar os acertos subirem a cabeça.
-- ⚡ Atualmente absorvendo conhecimento de todas as fontes na Trílogo para me tornar um grande desenvolvedor como os meninos Gustavo e Christian!
+- ⚡ Atualmente atuando no desenvolvimento de aplicações nativas com Android Kotlin (e compose!) na empresa Cogna (https://www.cogna.com.br/)
 - ⚡ Dica importante para a vida: uma playlist própria sempre ajuda com os buxos do dia a dia!
 
 ### Contatos :
