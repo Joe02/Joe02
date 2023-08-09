@@ -9,7 +9,6 @@
 - ⚡ Atualmente atuando no desenvolvimento de aplicações nativas com Android Kotlin (e compose!) na empresa Cogna (https://www.cogna.com.br/)
 - ⚡ Dica importante para a vida: uma playlist própria sempre ajuda com os buxos do dia a dia!
 <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joe02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ### Contatos :
 
