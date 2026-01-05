@@ -1,6 +1,6 @@
 ### Olá, bem vindo(a) ao meu perfil :D 👋
 
-## Me chamo Joel, tenho 25 anos e atuo como desenvolvedor Mobile para aplicações nativas e híbridas! (5 anos descobrindo coisas novas no mundo Mobile!)
+## Me chamo Joel, tenho 26 anos e atuo como desenvolvedor Mobile para aplicações nativas e híbridas! (7 anos descobrindo coisas novas no mundo Mobile!)
 
 ### Contatos :
 
